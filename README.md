@@ -1,5 +1,7 @@
 # Fork disclaimer
-*I've forked it only to try messing with files, including making LLMs do the legwork for finding and fixing problems I encountered in the game. None fixed yet.*
+*I've forked it only to try messing with files, including making LLMs do the legwork for finding and fixing problems I encountered in the game.*
+
+- Paladin Plate Mail armor not being equipable is fixed (untested yet).
 
 Original description:
 
