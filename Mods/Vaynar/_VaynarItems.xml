@@ -1003,6 +1003,8 @@
 	<GameItemType InternalName="PaladinPlateBreastpieceArmor">
         <DisplayName>Paladin Plate Mail Armor</DisplayName>
         <Description>Master-crafted armor forged from mithril. The church spared no expense to equip their greatest heroes and symbols of faith.</Description>
+        <Type>Torso</Type>
+        <Type>Surcoat</Type>
         <CanBeEquipped>1</CanBeEquipped>
         <ShopValue>1000</ShopValue>
         <GameModifier>
